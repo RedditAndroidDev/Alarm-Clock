@@ -1,4 +1,4 @@
-package your.com.alarmclock;
+package com.redditandroiddevelopers.alarmclock;
 
 import android.app.Activity;
 import android.os.Bundle;
